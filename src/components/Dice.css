@@ -1,0 +1,14 @@
+.dice-img{
+    height: 30vh;
+    width: auto;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.conainer-dice{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
